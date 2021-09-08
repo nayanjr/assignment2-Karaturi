@@ -15,3 +15,14 @@ Below is the list of food items/drinks one must try.
 | ck spicy burger       | chickfila        | $6     |
 | orange shaved ice       | Koolkats        | $4     |
 |straberry smoothie       | Starbucks        | $10   |
+
+
+--------------------------------------------------------------------------------
+
+>I have only made this letter longer because I have not had the time to make it shorter.
+
+*― Blaise Pascal, The Provincial Letters*
+
+
+>It's always darkest before you're blinded by the light
+*― josh stern*
