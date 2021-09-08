@@ -3,3 +3,15 @@ I am from visakhapatnam which is a city in Andhra Pradesh, India. I like the cit
 
 
 https://github.com/nayanjr/assignment2-Karaturi/blob/main/image1.jpg
+
+
+----------------------------------------------------------------------------------
+
+Below is the list of food items/drinks one must try.
+
+| Food/drink      | Location    | price    |
+| :---            |    :----:   |          ---: |
+| ck cassandra          | tacobell       | $5   |
+| ck spicy burger       | chickfila        | $6     |
+| orange shaved ice       | Koolkats        | $4     |
+|straberry smoothie       | Starbucks        | $10   |
