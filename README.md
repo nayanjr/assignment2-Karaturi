@@ -3,7 +3,7 @@
 I really like staying in **Visakhapatnam** as I love the sea. Its a **wonderful** destination for many tourists and also a pleasant place to stay.
 
 ----------------------------------------------------
-# Trip to St Louis
+# Trip to St Louis(ordered)
 
 1. Bus/car ride to Kansas city Airport
 2. Flight to St. Louis
