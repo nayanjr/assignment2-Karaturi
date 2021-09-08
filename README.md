@@ -5,9 +5,11 @@ I really like staying in **Visakhapatnam** as I love the sea. Its a **wonderful*
 ----------------------------------------------------
 # Trip to St Louis
 
-I usually get a ride to Kansas city airpot(MCI) and take a flight to st louis airport. I sometimes go by road which is a 5 hr drive.
-There are couple of other options like a train ride(AMTRAK) from Kansas City and a bus ride from Maryville.
+1. Bus/car ride to Kansas city Airport
+2. Flight to St. Louis
+3. car ride to friend' s place
 
+# List of fav items (unordered)
 * beer
 * food
 * friends
